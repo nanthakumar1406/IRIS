@@ -1,5 +1,7 @@
 # **README: Iris Species Classification with Random Forest and Neural Networks**  
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github.com/nanthakumar1406/IRIS/blob/main/iris.ipynb)
 ## **Project Overview**  
 This project demonstrates **machine learning classification** on the **Iris dataset** using two different models:  
 - **Random Forest Classifier** (scikit-learn)  
