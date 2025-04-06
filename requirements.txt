@@ -9,3 +9,6 @@ tensorflow>=2.11.0
 plotly>=5.13.0
 streamlit-folium>=0.10.1
 statsmodels>=0.13.0
+
+jupyterlab>=3.0
+ipykernel
